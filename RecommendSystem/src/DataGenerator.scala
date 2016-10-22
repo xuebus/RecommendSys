@@ -5,5 +5,12 @@ class DataGenerator {
 
 }
 
+object DataGenerator{
+    def main(args: Array[String]): Unit = {
+
+
+    }
+}
+
 
 
