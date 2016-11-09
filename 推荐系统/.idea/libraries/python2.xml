@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="python2">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///usr/software/python2.7.12/lib/python2.7" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
