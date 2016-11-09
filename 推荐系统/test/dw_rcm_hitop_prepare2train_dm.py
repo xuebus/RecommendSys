@@ -80,5 +80,3 @@ if __name__ == "__main__":
         output = "%s\t%s" % (label, ";".join([ "%s:%d" % (f, v) for f, v in features ]))
         print(output)
 
-
-   
